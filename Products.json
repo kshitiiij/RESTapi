@@ -1,0 +1,22 @@
+[
+    {
+        "model" : "Polo",
+        "brand" : "VW",
+        "year" : 2013
+    },
+    {
+        "model" : "911 GT3RS",
+        "brand" : "Porsche",
+        "year" : 2021
+    },
+    {
+        "model" : "Mustang GT",
+        "brand" : "Ford",
+        "year" : 1969
+    },
+    {
+        "model" : "918 Spyder",
+        "brand" : "Porsche",
+        "year" : 2021
+    }
+]
